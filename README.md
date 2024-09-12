@@ -1,9 +1,12 @@
-# BATCH EXTRACTOR AND DOWNLOADER
+l# BATCH EXTRACTOR AND DOWNLOADER
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/rishavdevkr)
 
 ## How to Deploy? 🤔. you can deploy over Heroku or your VPS too.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NARUJAT/DRM-Bot-2)
+
+## Deploy To Rende
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/https://github.com/AnkitShakya95/TxT-Bot)
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
