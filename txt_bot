@@ -25,7 +25,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/main/text_leech_bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/AnkitShakya95/TxT-Bot/blob/main/txt_bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -41,13 +41,13 @@
         "import shutil\n",
         "from IPython.display import clear_output\n",
         "\n",
-        "#@title <h1><B><font color=red>𝗧𝗘𝗫𝗧-𝗟𝗘𝗘𝗖𝗛-𝗕𝗢𝗧</B>\n",
+        "#@title <h1><B><font color=red>𝐀𝐧𝐤𝐢𝐭-𝐒𝐡𝐚𝐤𝐲𝐚-𝐁𝐨𝐭</B>\n",
         "# @markdown <div><center><a href=\"https://github.com/AshutoshGoswami24/text-leech-bot\"><img height=\"100\"  src=\"https://opengraph.githubassets.com/9s29ytrymhlrsfu1tqt1pzdxyfcsjeea/AshutoshGoswami24/text-leech-bot\"></center></a></div>\n",
-        "# @markdown <br><center><h2><strong><font color=red>𝗧𝗘𝗫𝗧-𝗟𝗘𝗘𝗖𝗛-𝗕𝗢𝗧</strong></h2></center>\n",
+        "# @markdown <br><center><h2><strong><font color=red>𝐀𝐧𝐤𝐢𝐭-𝐒𝐡𝐚𝐤𝐲𝐚-𝐁𝐨𝐭</strong></h2></center>\n",
         "\n",
         "\n",
         "#@markdown <font color=ORANGE> Please enter the GitHub repository URL:\n",
-        "GITHUB_URL = \"https://github.com/AshutoshGoswami24/text-leech-bot\"  #@param {type:\"string\"}\n",
+        "GITHUB_URL = \"https://github.com/AnkitShakya95/TxT-Bot\"  #@param {type:\"string\"}\n",
         "\n",
 {
   "nbformat": 4,
@@ -76,7 +76,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/main/text_leech_bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/AnkitShakya95/TxT-Bot/blob/main/txt_bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -94,11 +94,11 @@
         "\n",
         "#@title <h1><B><font color=red>𝗧𝗘𝗫𝗧-𝗟𝗘𝗘𝗖𝗛-𝗕𝗢𝗧</B>\n",
         "# @markdown <div><center><a href=\"https://github.com/AshutoshGoswami24/text-leech-bot\"><img height=\"100\"  src=\"https://opengraph.githubassets.com/9s29ytrymhlrsfu1tqt1pzdxyfcsjeea/AshutoshGoswami24/text-leech-bot\"></center></a></div>\n",
-        "# @markdown <br><center><h2><strong><font color=red>𝗧𝗘𝗫𝗧-𝗟𝗘𝗘𝗖𝗛-𝗕𝗢𝗧</strong></h2></center>\n",
+        "# @markdown <br><center><h2><strong><font color=red>𝐀𝐧𝐤𝐢𝐭-𝐒𝐡𝐚𝐤𝐲𝐚-𝐁𝐨𝐭</strong></h2></center>\n",
         "\n",
         "\n",
         "#@markdown <font color=ORANGE> Please enter the GitHub repository URL:\n",
-        "GITHUB_URL = \"https://github.com/AshutoshGoswami24/text-leech-bot\"  #@param {type:\"string\"}\n",
+        "GITHUB_URL = \"https://github.com/AnkitShakya95/TxT-Bot\"  #@param {type:\"string\"}\n",
         "\n",
         "# Determine base directory based on environment\n",
         "base_dir = './repo'  # Save repo in ./repo directory relative to current directory\n",
