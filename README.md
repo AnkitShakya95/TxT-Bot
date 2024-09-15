@@ -12,6 +12,11 @@ l# BATCH EXTRACTOR AND DOWNLOADER
 ## Deploy To Rende
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/https://github.com/AnkitShakya95/TxT-Bot)
 
+## Deploy to cloudshell
+
+"<a href=\"https://colab.research.google.com/github/AnkitShakya95/TxT-Bot/blob/main/txt_bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+
 ## COMMANDS
 ### AVAILABLE COMMANDS 
 ```
