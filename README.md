@@ -14,8 +14,9 @@ l# BATCH EXTRACTOR AND DOWNLOADER
 
 ## Deploy to cloudshell
 
-"<a href=\"https://colab.research.google.com/github/AnkitShakya95/TxT-Bot/blob/main/txt_bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
+<a href="https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/main/text_leech_bot" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
